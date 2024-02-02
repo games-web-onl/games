@@ -1,5 +1,4 @@
 body {
-    background-color: #000;
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
     background-image: url('game.jpg');
@@ -16,7 +15,7 @@ body {
     border-radius: 10px;
 }
 
-h1 {
+.heading {
     text-align: center;
 }
 
